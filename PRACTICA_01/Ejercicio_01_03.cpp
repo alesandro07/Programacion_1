@@ -7,7 +7,7 @@
 #include <iostream>
 using namespace std;
 int main() {
-        double base ,altura, area; // double se coloca para entre varaibles con decimales y sea mas preciso el resultado, tambien se puede colocar int pero solo admite valores sin decimales 
+        double base ,altura, area; // double se coloca  entre variables con decimales y sea mas preciso el resultado, tambien se puede colocar int pero solo admite valores sin decimales 
         cout << "Ingrese la base del triangulo: ";
         cin >> base;
         cout << "Ingrese la altura del triangulo: ";
@@ -15,4 +15,5 @@ int main() {
         area = (base * altura) / 2;
         cout << "El area del triangulo es: " << area << endl;
         return 0;
+
 }
