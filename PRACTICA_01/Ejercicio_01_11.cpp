@@ -6,9 +6,6 @@
 // Número de ejercicio: 11
 #include <iostream>
 using namespace std;
-#include <iostream>
-using namespace std;
-
 int main() {
     int mes;
     cout << "Ingrese un numero del 1 al 12: ";
@@ -32,4 +29,5 @@ int main() {
 
     return 0;
 }
+
 
