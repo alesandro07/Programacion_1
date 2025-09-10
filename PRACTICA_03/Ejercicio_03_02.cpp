@@ -1,7 +1,7 @@
 // Materia: Programación I, Paralelo 4 
 // Autor: Alesandro Raul Santander Fernández
 // Fecha creación: 10/09/2025 
-// Número de ejercicio: 1
+// Número de ejercicio: 2
 #include <iostream>
 using namespace std;
 
@@ -20,3 +20,4 @@ int main() {
 
     return 0;
 }
+
