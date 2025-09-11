@@ -24,7 +24,7 @@ double retirarDinero(double saldo, double cantidad) {
 }
 
 int main() {
-    double saldo = 1000.0;
+    double saldo = 1000;
     double monto;
 
     cout << "Ingrese el monto a retirar: ";
@@ -34,4 +34,5 @@ int main() {
 
     return 0;
 }
+
 
